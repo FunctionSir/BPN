@@ -2,7 +2,7 @@
  * @Author: FunctionSir
  * @License: AGPLv3
  * @Date: 2023-09-12 19:06:10
- * @LastEditTime: 2023-09-12 19:24:03
+ * @LastEditTime: 2023-09-12 19:48:45
  * @LastEditors: FunctionSir
  * @Description: README.md
  * @FilePath: /BatchPeakNormise/README.md
@@ -46,7 +46,7 @@ If xxx.ogg is the original file, xxx.new.ogg will be the name of processed file.
 
 ## How to build
 
-### On linux
+### On Linux
 
 Build for Linux:  
 
